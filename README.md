@@ -18,10 +18,6 @@ Dự án quản lý cửa hàng được phát triển trong khuôn khổ môn h
 - **Activity Diagram**: Biểu diễn luồng nghiệp vụ, quy trình xử lý công việc.
 - **Entity-Relationship Diagram (ERD)**: Thiết kế cấu trúc cơ sở dữ liệu, thể hiện các bảng và mối quan hệ.
 
-## 🚀 Hướng dẫn sử dụng
-
-(Phần này bạn có thể thêm hướng dẫn cài đặt, chạy ứng dụng, hoặc link tới tài liệu hướng dẫn nếu có.)
-
 ## 📄 Tài liệu liên quan
 
 - Báo cáo phân tích và thiết kế hệ thống (Báo Cáo.docx)
